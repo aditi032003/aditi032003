@@ -26,3 +26,16 @@
   <img src="https://cdn.simpleicons.org/googlesheets/34A853" height="48" alt="Google Sheets" />&nbsp;&nbsp;
   <img src="https://img.icons8.com/color/48/microsoft-powerpoint-2019--v1.png" height="48" alt="PowerPoint" />
 </p>
+
+---
+
+<h3 align="left">📊 My projects focus on: </h3>
+
+- Business operations optimization.
+
+- Advanced reporting systems.
+
+- Real-world problem-solving with data.
+
+<h4>👨‍💻 All of my projects are available at {https://github.com/aditi032003} </h4>
+
